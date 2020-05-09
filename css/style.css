@@ -1,0 +1,17 @@
+a {
+    color: white !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#add-account-view{
+    display: none;
+}
+#edit-account-view{
+    display: none;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
